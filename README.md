@@ -17,7 +17,7 @@ Feel free to use it
 - Clone the Repo
 - Open terminal in the folder
 - type "python3 -m venv venv"
-- type "source /venv/bin/activate"
+- type "source venv/bin/activate"
 - type "pip install -r req.txt"
 - Now you can edit / Run the script by typing "python3 main.py"
 - type "python3 setup.py py2app -A" to recompile everything to .APP (inside the DIST folder)
